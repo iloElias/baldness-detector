@@ -37,9 +37,3 @@ Este projeto foi desenvolvido para detectar a calvície em imagens usando uma re
 
 - Este projeto é um exemplo simples de como utilizar redes neurais para detecção de características em imagens.
 - A precisão do modelo pode variar dependendo da qualidade das imagens e do treinamento da rede neural.
-
-## Contato
-
-- Para dúvidas ou mais informações, entre em contato com [seu-email@exemplo.com](mailto:seu-email@exemplo.com).
-
-Esperamos que esta aplicação seja útil e fácil de usar!
